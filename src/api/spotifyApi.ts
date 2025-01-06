@@ -1,4 +1,3 @@
-// src/api/spotifyApi.ts
 import { Track } from '../types';
 
 const CLIENT_ID = import.meta.env.VITE_SPOTIFY_CLIENT_ID;

@@ -1,4 +1,3 @@
-// src/components/__tests__/TrackItem.test.tsx
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import { TrackItem } from '../TrackItem';
