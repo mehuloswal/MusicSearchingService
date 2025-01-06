@@ -29,8 +29,8 @@ A React application built with TypeScript that allows users to search for music 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/musicstreamingservice.git
-    cd musicstreamingservice
+    git clone https://github.com/mehuloswal/MusicSearchingService.git
+    cd MusicSearchingService
     ```
 
 2. **Install Dependencies**
